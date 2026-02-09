@@ -1,0 +1,2 @@
+Semana 1
+En la sesión 1 entendí qué es programar y que básicamente se trata de decirle a la computadora qué hacer paso a paso para resolver un problema. Aprendí que las computadoras no entienden español ni instrucciones ambiguas, solo entienden 0 y 1, que es el código binario. También vimos qué es un algoritmo, que es una lista de instrucciones claras y ordenadas que siempre llevan al mismo resultado, como el ejemplo del semáforo. Me quedó claro que antes de programar hay que entender bien el problema, dividirlo en pasos simples y pensar en las decisiones que pueden ocurrir.
