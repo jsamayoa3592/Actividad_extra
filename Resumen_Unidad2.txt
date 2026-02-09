@@ -1,0 +1,1 @@
+En la Unidad 2 aprendí cómo funcionan los lenguajes de programación y por qué no se programa directamente en 0 y 1. Vimos las variables, los tipos de datos y cómo un programa puede tomar decisiones o repetir instrucciones con ciclos. Lo que más me costó fue aplicar estos conceptos en Java, especialmente entender bien las condiciones y cuándo un ciclo debe detenerse.
