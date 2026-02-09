@@ -1,0 +1,1 @@
+En la Unidad 3 aprendí qué es Git y para qué sirve el control de versiones. Entendí que permite guardar los cambios de un proyecto y regresar a una versión anterior si algo sale mal. Aprendí qué es un repositorio, una rama y un commit. Al inicio me confundí con las ramas, pero luego entendí que sirven para organizar mejor el trabajo.
