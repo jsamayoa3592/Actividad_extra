@@ -1,0 +1,1 @@
+En la Unidad 1 aprendí qué es programar y que consiste en darle instrucciones claras a la computadora para resolver un problema. Entendí que las computadoras solo trabajan con 0 y 1 y que por eso se usan los algoritmos, que son pasos ordenados que siempre llevan al mismo resultado. Lo más importante fue aprender a pensar de forma ordenada antes de escribir cualquier código.
